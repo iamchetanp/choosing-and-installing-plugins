@@ -164,7 +164,8 @@ Practice leaving a star rating and review for a plugin.
 2.  Last updated
 3.  Number of downloads
 4.  Author information
-5.  All of the above
+5.  Compatibility with WordPress version
+6.  All of the above
 
 **Answer:** 5\. All of the above.
 
